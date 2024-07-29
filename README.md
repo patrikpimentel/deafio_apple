@@ -1,5 +1,5 @@
 # Diagrama das classes
-'''mermaid
+```mermaid
 classDiagram
     class Telefone {
         -nome : String
@@ -38,5 +38,5 @@ classDiagram
     Navegador --> Informacoes
     Phone --> Informacoes
     Musics --> Informacoes
-'''
+```
  
